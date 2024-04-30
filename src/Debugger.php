@@ -331,7 +331,7 @@ class Debugger
      *
      * @return void
      */
-    public function log($message): void
+    public function log($message)
     {
         if ($this->isDebugEnabled()) {
             file_put_contents(
