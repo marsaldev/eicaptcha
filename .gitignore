@@ -4,6 +4,7 @@ vendor
 .github/config.php
 .github/eicaptcha.zip
 .github/build.sh
+.idea
 config.xml
 config_*.xml
 logs/*.log
