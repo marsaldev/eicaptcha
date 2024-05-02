@@ -210,12 +210,12 @@ class ConfigForm
                         'values' => [
                             [
                                 'id' => 'cdark',
-                                'value' => 0,
+                                'value' => 1,
                                 'label' => $this->l('Dark'),
                             ],
                             [
                                 'id' => 'clight',
-                                'value' => 1,
+                                'value' => 0,
                                 'label' => $this->l('Light'),
                             ],
                         ],
